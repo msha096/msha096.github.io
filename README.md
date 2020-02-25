@@ -4,14 +4,14 @@ I am pursuing my master degree at University of Ottawa. My research interests in
 [LinkedIn](https://www.linkedin.com/in/mingzhi-sha-77a04b172/)
 ## Education
 
-# Bachelor: 
+### Bachelor: 
 ```
 Sichuan University 
 Start-End: Sept. 2013 - Jun. 2017 
 Program:  Computer Science
 ```
 
-# Master:
+### Master:
 ```
 University of Ottawa 
 Start-Emd: Sept. 2017- 2020 (Now)
