@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Mingzhi Sha's Resume
 
-You can use the [editor on GitHub](https://github.com/msha096/msha096.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am pursuing my master degree at University of Ottawa. My research interests include AI, deep learning, object detection, and machine learning. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
+Bachelor: Sichuan University 2013 Sept - 2017 June in Computer Science
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Master: University of Ottawa 2017 Sept- 2020 (Now)
 
 ```markdown
 Syntax highlighted code block
