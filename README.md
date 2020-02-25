@@ -1,12 +1,14 @@
-## Mingzhi Sha's Resume
+# Mingzhi Sha's Resume
 
 I am pursuing my master degree at University of Ottawa. My research interests include AI, deep learning, object detection, and machine learning. 
 
-### Education
+## Education
 
-Bachelor: Sichuan University 2013 Sept - 2017 June in Computer Science
+#Bachelor: 
+Sichuan University 2013 Sept - 2017 June in Computer Science
 
-Master: University of Ottawa 2017 Sept- 2020 (Now)
+#Master:
+University of Ottawa 2017 Sept- 2020 (Now)
 
 ```markdown
 Syntax highlighted code block
