@@ -15,7 +15,7 @@ Program:  Computer Science
 
 University of Ottawa 
 Start-Emd: Sept. 2017- 2020 (Now)
-Program:  Computer Science, Enginerring
+Program:  Computer Science, Engineering
 ```
 ## Skills
 
