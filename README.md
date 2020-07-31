@@ -18,5 +18,14 @@ Start-Emd: Sept. 2017- 2020 (Now)
 Program:  Computer Science, Engineering
 ```
 ## Skills
-
+```
+Developing: Python, Java, Matlab
+AI/DL: PyTorch, TensorFlow, Keras
+Data Analysis: Numpy, Pandas, SciPy
+Opoerating System: Linux, Mac OS, Windows
+```
 ## Working Experience
+```
+Research Assistant at Paradise Lab, University of Ottawa since May,2018.
+Teaching Assistant of ITI 1120 Introduction to Python, CSI4150 Introduct to Optimization, CSI3131 Operating Systems.
+```
